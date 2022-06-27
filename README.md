@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning php languege
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on telegram (@Omiddaryaei)
--  & This is my gmail => omiddaryaei.od@gmail.com
+-  & This is my Email => omiddaryaei.od@gmail.com
 
 <!---
 omid-d94/omid-d94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
