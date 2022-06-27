@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Ali Akbari",
+        "age": "19",
+        "school": "Allame"
+    },
+    {
+        "name": "Masoud Ahmadi",
+        "age": "16",
+        "school": "Amir Kabir"
+    },
+    {
+        "name": "Mohammad Hosseini",
+        "age": "14",
+        "school": "Setayesh"
+    },
+    {
+        "name": "Ehsan Salemi",
+        "age": "13",
+        "school": "Andishe"
+    },
+    {
+        "name": "Asqar Farhadi",
+        "age": "15",
+        "school": "Farhang"
+    },
+    {
+        "name": "Sina Kazemi",
+        "age": "12",
+        "school": "Andishe"
+    },
+    {
+        "name": "Mehran Modiri",
+        "age": "20",
+        "school": "Fakoor"
+    }
+]
