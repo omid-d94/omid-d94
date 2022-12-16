@@ -13,16 +13,14 @@
 </p>
 
 ## Contact me:
-
-<a src="https://www.linkedin.com/in/omid-daryaei-b95563256" >
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" />
-</a> 
-
-<a src="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=omiddaryaei.od%40gmail.com&su=SUBJECT&body=BODY&tf=1">
-    <img src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" 
-height="30px" width="45px"  alt="Gmail"/>
-</a>
-
+<p>
+    <a src="https://www.linkedin.com/in/omid-daryaei-b95563256" >
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" />
+    </a>
+    <a src="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=omiddaryaei.od%40gmail.com&su=SUBJECT&body=BODY&tf=1">
+        <img src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" height="30px" width="45px"  alt="Gmail"/>
+    </a>
+</p>
 
 ## Languages & Tools:
 
@@ -66,7 +64,10 @@ height="30px" width="45px"  alt="Gmail"/>
     <img src="https://www.docker.com/wp-content/uploads/2022/03/Docker-Logo-White-RGB_Horizontal.png" alt="Docker" height="40px" />
 </a>
 
-## Have a good time ☺
+<br><br><br>
+
+## <p align="center">☺ HOPE TO SEE YOU AGAIN ☺</p>
+
 <p align="center">
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="dino">
 </p>
