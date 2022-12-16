@@ -14,11 +14,10 @@
 <hr>
 <h2>Contact me:</h2>
 <p>
-    <a src="https://www.linkedin.com/in/omid-daryaei-b95563256" >
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" />
-    </a>
-    <a src="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=omiddaryaei.od%40gmail.com&su=SUBJECT&body=BODY&tf=1">
-        <img src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" height="30px" width="45px"  alt="Gmail"/>
+    <a href="https://www.linkedin.com/in/omid-daryaei-b95563256" target="_blank">
+<img src="img/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>
+    <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=omiddaryaei.od%40gmail.com&su=SUBJECT&body=BODY&tf=1" target="_blank">
+        <img src="img/gmail.png" height="30px" width="45px"  alt="Gmail"/>
     </a>
 </p>
 
@@ -26,43 +25,43 @@
 <h2>Languages & Tools:</h2>
 
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="50px" />
+    <img src="img/PHP.svg" alt="PHP" height="50px" />
 </a>
-<a href="" target="_blank" rel="noreferrer">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3445836-2878762.png" alt="MySQL" height="40px">
+<a href="https://www.w3schools.com/MySQL/default.asp" target="_blank" rel="noreferrer">
+    <img src="img/mysql.png" alt="MySQL" height="40px">
 </a>
-<a href="" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" height="40px">
+<a href="https://redis.io/docs/getting-started/" target="_blank" rel="noreferrer">
+    <img src="img/redis.svg" alt="Redis" height="40px">
 </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" alt="Laravel" height="40px">
+    <img src="img/laravel.svg" alt="Laravel" height="40px">
 </a>
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40px">
+    <img src="img/html5.svg" alt="HTML5" height="40px">
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="CascadingStyleSheet" height="40px">
+    <img src="img/css3.svg" alt="CascadingStyleSheet" height="40px">
 </a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" height="40px">
+    <img src="img/Bootstrap.png" alt="Bootstrap" height="40px">
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="Tailwindcss" height="40px">
+    <img src="img/Tailwind_CSS.png" alt="Tailwindcss" height="40px">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40px">
+    <img src="img/javascript.svg" alt="javascript" height="40px">
 </a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-21.jpg" alt="jQuery" height="40px">
+    <img src="img/jquery.jpg" alt="jQuery" height="40px">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX/Getting_Started" target="_blank" rel="noreferrer">
-    <img src="https://kungfuphp.com/wp-content/uploads/2015/04/ajax-trong-php-kungfu-php.jpg" alt="AJAX" height="40px" >
+    <img src="img/ajax.jpg" alt="AJAX" height="40px" >
 </a>
 <a href="https://git-scm.com/docs/gittutorial" target="_blank" rel="noreferrer">
-    <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.svg" alt="Git" height="40px" >
+    <img src="img/Git.svg" alt="Git" height="40px" >
 </a>
 <a href="https://docs.docker.com/get-started/" target="_blank" rel="noreferrer">
-    <img src="https://www.docker.com/wp-content/uploads/2022/03/Docker-Logo-White-RGB_Horizontal.png" alt="Docker" height="40px" />
+    <img src="img/Docker.png" alt="Docker" height="40px" />
 </a>
 <hr>
 
