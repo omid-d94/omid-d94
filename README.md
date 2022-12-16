@@ -1,18 +1,18 @@
-# Hi, welcome to my github <br> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" height="50px" weight="50px" > I'm Omid Daryaei <br>
+<h1 align="center">Hi, welcome to my github <br>
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" height="50px" weight="50px" > I'm Omid Daryaei <br>
+</h1>
 
 <p align="center">
     <img  src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="OmidDaryaei">
 </p>
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=omid-d94&label=Profile%20views&color=0e75b6&style=flat" 
-         alt="Omid Daryaei"/>
-</p>
+
 <p align="center"> 
-  Visitors count<br>
+  Visitors counter<br>
   <img src="https://profile-counter.glitch.me/omid-d94/count.svg"  alt="visitor counter"/>
 </p>
 
-## Contact me:
+<hr>
+<h2>Contact me:</h2>
 <p>
     <a src="https://www.linkedin.com/in/omid-daryaei-b95563256" >
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" />
@@ -22,7 +22,8 @@
     </a>
 </p>
 
-## Languages & Tools:
+<hr>
+<h2>Languages & Tools:</h2>
 
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="50px" />
@@ -63,10 +64,16 @@
 <a href="https://docs.docker.com/get-started/" target="_blank" rel="noreferrer">
     <img src="https://www.docker.com/wp-content/uploads/2022/03/Docker-Logo-White-RGB_Horizontal.png" alt="Docker" height="40px" />
 </a>
+<hr>
 
-<br><br><br>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=omid-d94&label=Profile%20views&color=0e75b6&style=flat" 
+         alt="Omid Daryaei"/>
+</p>
 
-## <p align="center">☺ HOPE TO SEE YOU AGAIN ☺</p>
+<br><br><br><hr>
+
+<h2 align="center">☺ HOPE TO SEE YOU AGAIN ☺</h2>
 
 <p align="center">
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="dino">
