@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="50px" />
 </a>
 <a href="" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40px">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3445836-2878762.png" alt="MySQL" height="40px">
 </a>
 <a href="" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" height="40px">
@@ -70,7 +70,13 @@
     <img src="https://komarev.com/ghpvc/?username=omid-d94&label=Profile%20views&color=0e75b6&style=flat" 
          alt="Omid Daryaei"/>
 </p>
+<p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=omid-d94&theme=dark&border_radius=5)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omid-d94&theme=great-gatsby&show_icons=true)
+
+</p>
 <br><br><br><hr>
 
 <h2 align="center">☺ HOPE TO SEE YOU AGAIN ☺</h2>
